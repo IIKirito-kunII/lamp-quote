@@ -88,12 +88,11 @@ body {
   justify-content: center;
   gap: 8vmin;
   flex-wrap: wrap;
-  padding: 2rem;
+  padding: 0.5rem;
 }
 
 .login-form {
   background: rgba(18, 25, 33, 0.9);
-  padding: 3rem 2.5rem;
   border-radius: 20px;
   min-width: 320px;
   opacity: 0;
