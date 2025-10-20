@@ -1,0 +1,42 @@
+/* Removed conflicting global styles for '*' and 'body' */
+
+.quote-box-container {
+  /* RENAMED from .container */
+  position: relative;
+  display: table;
+  width: 500px;
+  height: fit-content;
+  padding: 40px 50px;
+  font-size: 1.6rem;
+  text-align: center;
+  border-radius: 15px;
+  transition: color 1s ease;
+  margin: 10px;
+}
+#author {
+  margin: 10px;
+  font-size: 1.2rem;
+  text-align: right;
+  font-style: italic;
+}
+footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  text-decoration: none;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
+@media (max-width: 550px) {
+  .quote-box-container {
+    /* RENAMED from .container */
+    width: 95%;
+  }
+}
