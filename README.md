@@ -16,7 +16,7 @@
 - Integration with a **Quote API**
 - Twitter sharing for inspirational content
 
-Live Demo: [https://lampquote.netlify.app](https://lampquote.netlify.app)
+Live Project: [https://lampquote.netlify.app](https://lampquote.netlify.app)
 
 ---
 
