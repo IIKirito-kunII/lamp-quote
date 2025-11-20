@@ -59,3 +59,7 @@ Live Project: [https://lampquote.netlify.app](https://lampquote.netlify.app)
 git clone https://github.com/IIKirito-kunII/lamp-quote.git
 cd lamp-quote
 ```
+---
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
