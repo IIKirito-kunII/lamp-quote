@@ -32,11 +32,9 @@ Live Project: [https://lampquote.netlify.app](https://lampquote.netlify.app)
 
 ## 📸 Screenshots
 
-**Lamp Off:**  
-![Lamp Off](screenshots/lamp-off.png)
-
-**Lamp On with Quote:**  
-![Lamp On](screenshots/lamp-on.png)
+| Lamp Off | Lamp On with Quote |
+|----------|----------------------|
+| <img src="screenshots/lamp-off.png" width="400"/> | <img src="screenshots/lamp-on.png" width="400"/> |
 
 ---
 
